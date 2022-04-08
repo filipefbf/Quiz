@@ -5,7 +5,7 @@ let correctAswers = 0;
 showQuestion();
 
 //EVENTOS
-document.querySelector('.scoreArea button').addEventListener('Click', resetEvent);
+document.querySelector('.scoreArea button').addEventListener('click', resetEvent);
 
 
 //FUNCTIONS
